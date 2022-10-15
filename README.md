@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center">
+<p align="center" width="100%">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gingerhot&show_icons=true&locale=en&theme=radical" align="left" alt="gingerhot" />
 </p>
 
