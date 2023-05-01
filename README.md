@@ -17,6 +17,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />                             
 </p>
-
-
-![PV](https://visitor-badge.glitch.me/badge?page_id=gingerhot)
